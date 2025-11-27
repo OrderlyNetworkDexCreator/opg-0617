@@ -17,7 +17,7 @@
 
   --oui-color-danger: 245 97 139;
   --oui-color-danger-light: 250 167 188;
-  --oui-color-danger-darken: 255 0 76;
+  --oui-color-danger-darken: 237 72 122;
   --oui-color-danger-contrast: 255 255 255;
 
   --oui-color-success: 41 233 169;
@@ -40,16 +40,16 @@
   --oui-color-base-5: 51 46 66;
   --oui-color-base-6: 43 38 56;
   --oui-color-base-7: 36 32 47;
-  --oui-color-base-8: 138 54 140;
-  --oui-color-base-9: 39 29 68;
-  --oui-color-base-10: 0 0 0;
+  --oui-color-base-8: 29 26 38;
+  --oui-color-base-9: 22 20 28;
+  --oui-color-base-10: 14 13 18;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
 
-  --oui-color-trading-loss: 255 0 72;
+  --oui-color-trading-loss: 245 97 139;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 66 148 255;
+  --oui-color-trading-profit: 41 233 169;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
@@ -78,12 +78,12 @@
   --oui-gradient-neutral-end: 38 41 46;
 
   /* rounded */
-  --oui-rounded-sm: 0px;
-  --oui-rounded: 0px;
-  --oui-rounded-md: 0px;
-  --oui-rounded-lg: 0px;
-  --oui-rounded-xl: 0px;
-  --oui-rounded-2xl: 0px;
+  --oui-rounded-sm: 2px;
+  --oui-rounded: 4px;
+  --oui-rounded-md: 6px;
+  --oui-rounded-lg: 8px;
+  --oui-rounded-xl: 12px;
+  --oui-rounded-2xl: 16px;
   --oui-rounded-full: 9999px;
 
   /* spacing */
