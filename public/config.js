@@ -36,6 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,tc,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#14ffc4\",\"downColor\":\"#f77555\",\"pnlUpColor\":\"#14ffc4\",\"pnlDownColor\":\"#f77555\",\"chartBG\":\"#000000\"}",
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#14e4ff\",\"downColor\":\"#ff0a6c\",\"pnlUpColor\":\"#https://dex.orderly.network/opg-0617/perp/PERP_ETH_USDC/\",\"pnlDownColor\":\"#ff0a6c\",\"chartBG\":\"#000000\"}",
   "VITE_ANALYTICS_SCRIPT": ""
 };
